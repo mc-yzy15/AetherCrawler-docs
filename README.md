@@ -91,7 +91,25 @@
 - 禁止用于非法用途
 - 保留所有权利
 
-## 7. 联系方式
+## 7.社区协作
+
+📢 **欢迎参与项目开发！**
+
+我们使用GitHub Wiki维护项目文档，欢迎贡献您的知识：
+🔗 [项目Wiki地址](https://github.com/mc-yzy15/AetherCrawler/wiki)
+
+### 7.1 贡献指南
+1. Fork本项目仓库
+2. 在Wiki页面点击"编辑"
+3. 提交Pull Request
+4. 通过审核后合并
+
+### 7.2 文档规范
+- 使用Markdown格式
+- 保持技术描述准确
+- 注明您的贡献者信息
+
+## 8.联系方式
 - 项目负责人：mc-yzy15
 - 企业邮箱：yaoziying@yzit7.wecom.work
 - 文档中心：本文件
